@@ -1,0 +1,22 @@
+.Turniej{
+    background-color: gray;
+    height: 50px;
+    width: 200px;
+    padding: 10px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 35px;
+    text-align: center;;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    margin-top: 10px;
+}
+body{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+*{
+    box-sizing: content-box;
+    text-decoration: none;
+}
